@@ -1,2 +1,5 @@
 # lockdown-translation
-http://boingboing.net/2012/01/10/lockdown.html in Russian
+Моя попытка перевода этой [статьи](http://boingboing.net/2012/01/10/lockdown.html) на русский язык.
+Данная статья основывается на ключевой речи Кори Доктороу на ССС (Chaos Communication Congress) в 2011 году.
+
+Кори Доктороу — канадо-британский блоггер, журналист и автор научно-фантастической литературы. Соредактор блога [Boing Boing](http://boingboing.net/2012/01/10/lockdown.html), активист движения по либерализации системы авторских прав и сторонник организации Creative Commons.
